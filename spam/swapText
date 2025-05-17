@@ -1,0 +1,8 @@
+#!/bin/sh
+var=`cat fileList`
+for i in $var; do
+    sed '
+    s_, SPAM Haiku Archive Master (SHAM) / <a_</address>_
+    s_href="mailto:jync@mit.edu">jync@mit.edu</a></address>_ _' <$i> temp
+    mv -f temp $i
+done

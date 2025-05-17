@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<TITLE>SPAM-Ku Search</TITLE>
+</HEAD>
+<BODY BACKGROUND="spambg.gif">
+<H1>Search-Ku</H1>
+<FORM METHOD=GET ACTION="/cgi-bin/search-ku.pl">
+<TABLE>
+<TR>
+  <TH ALIGN=RIGHT>Search for:</TH>
+  <TD><INPUT NAME="search" TYPE=TEXT></TD>
+<TR>
+  <TH ALIGN=RIGHT>in:</TH>
+  <TD>
+    <INPUT NAME="what" TYPE=RADIO VALUE="both" ID="what.both" CHECKED>
+    <LABEL FOR="what.both">poem and author text</LABEL><BR>
+    <INPUT NAME="what" TYPE=RADIO VALUE="poem" ID="what.poem">
+    <LABEL FOR="what.poem">poem text only</LABEL><BR>
+    <INPUT NAME="what" TYPE=RADIO VALUE="author" ID="what.author">
+    <LABEL FOR="what.author">author text only</LABEL>
+  </TD>
+<TR>
+  <TH ALIGN=RIGHT>options:</TH>
+  <TD>
+    <INPUT NAME="word" TYPE=CHECKBOX VALUE="yes" ID="word">
+    <LABEL FOR="word">Match whole word only</LABEL><BR>
+    <INPUT NAME="show" TYPE=CHECKBOX VALUE="yes" ID="show">
+    <LABEL FOR="show">Highlight matched text</LABEL>
+  </TD>
+<TR>
+  <TH ALIGN=RIGHT>result limit:</TH>
+  <TD><INPUT NAME="limit" TYPE=TEXT VALUE=100 SIZE=5> per page</TD>
+<TR>
+  <TD></TD>
+  <TD><INPUT TYPE=SUBMIT VALUE="Search"></TD>
+</TABLE>
+</FORM>
+<p>
+
+Return to the <a href="./">SPAM-ku home page.</a><p>
+
+Special thanks to <a href="http://www.epsilon.com.au/~famous/">The
+Famous Brett Watson</a> (<a
+href="mailto:famous@nutters.org">famous@nutters.org</a>) who created
+this search engine.<p>
+
+SPAM is a registered trademark of Hormel Foods Corporation for luncheon meat.  The Haiku Archive Master and the contributors to this website have no legal, commercial or financial involvement with Hormel Foods.  Neither the information presented here, nor the manner in which it has been presented, has been sanctioned by Hormel Foods.<p>
+
+</BODY>
+</HTML>
