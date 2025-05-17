@@ -1,0 +1,555 @@
+Bremer, J., W. Singer, D. Keuer, P.  Hoffmann, J. Rottger,
+J. Y. N. Cho, and W. E. Swartz, PMSE observations with EISCAT during
+summer 1991, Radio Sci., 30, 1219-1228, 1995.
+
+Polar mesosphere summer echoes (PMSE) have been observed with the
+European incoherent scatter radar (EISCAT) operating at 224 MHz during
+summer 1991.  The mean height of PMSE was about 85 km during day-time
+and about 87 km during night-time with a markedly enhanced occurrence
+probability during day-time.  The probability of occurrence of PMSE is
+higher during geomagnetically quiet than during disturbed periods.
+There are some indications of a PMSE modulation by atmospheric gravity
+waves a s well as 2d-waves.  Comparisons of PMSE structures derived
+from EISCAT 224-MHz and CUPRI 46.9-MHz radar observations demonstrate
+common features as well as marked differences.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., Inertio-gravity wave parameter estimation from
+cross-spectral analysis, J. Geophys. Res., 100, 18727-18737, 1995
+
+We outline a method for extracting inertio-gravity wave parameters
+using the auto- and cross-spectra of the horizontal perturbation
+winds.  In essence, we define a statistical hodograph for each
+spectral bin, thus combining the advantages of the rotary spectrum and
+hodograph methods.  Furthermore, we include the effects of the
+background vertical shear in the parameter estimation equations, a
+step that had often been omitted in the past.  Applying this technique
+to a long-period data set taken with the Arecibo 430-MHz radar, we
+explore its usefulness as well as its limitations.  The results
+support the interpretation of horizontal wind-perturbation rotation in
+the lower stratosphere over Arecibo as inertio-gravity waves rather
+than mountain waves imbedded within a background vertical shear.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., and M. C. Kelley, Polar mesospheric summer radar
+echoes: Observations and current theories, Rev. Geophys., 31, 243-265,
+1993.
+
+The remarkably strong radar echoes from the summer polar mesosphere
+have been an enigma to atmospheric and radar scientists since their
+discovery more than a decade ago.  Since then, more sophisticated
+radar experiments and in situ rocket measurements have shed some light
+on the underlying physics and chemistry, and theories have been
+formulated to explain the generation of the intense radar backscatter
+and the remarkable physical conditions associated with it.  First, we
+review the key observations and examine the proposed theories.  We
+then evaluate the progress that has been made in understanding this
+phenomenon and explore its connection to global change, to the newly
+recognized material referred to as a dusty plasma, and to the highest
+clouds in the Earth's atmosphere.  Finally, we end with suggestions
+for future research.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., M. P. Sulzer, and M. C. Kelley, Meteoric dust effects
+on D-region incoherent scatter radar spectra,
+J. Atmos. Solar-Terr. Phys., in press, 1998.
+
+We extend the incoherent backscatter radar equation for the weakly
+ionized, collision-dominated case to include polydisperse charged
+dust, using the fluid-equation approach.  Calculations with this
+equation show that the main effect of charged dust on the radar
+Doppler spectrum is to narrow it, except in the case of very small,
+negatively charged dust, which widens the spectrum.  The results are
+encouraging for the use of incoherent scatter radar as an instrument
+for meteoric dust measurement.  We also note that if the effects of
+meteoric dust are not taken into account, one may get a systematic
+bias in the D-region parameters deduced from the the radar spectra.
+This may account for the discrepancy between observed and calculated
+spectra reported in earlier papers.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., and R. L. Morley, PMSE dependence on long-period
+vertical motions, Geophys. Res.  Lett., 22, 1197-1200, 1995.
+
+We analyze the temporal relationship between PMSE (polar mesosphere
+summer echoes) and long-period vertical motions using the Poker Flat,
+Alaska radar data.  The results show that the vertical velocity leads
+PMSE by 90 to 180 deg with an upward trend in phase with increasing
+frequency.  We show that this is consistent with the current PMSE
+theories which depend primarily upon the presence of charged ice
+aerosols for the enhancement of radar scatter.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., and J. Rottger, An updated review of polar mesosphere
+summer echoes: Observation, theory, and their relationship to
+noctilucent clouds and subvisible aerosols, J. Geophys. Res., 102,
+2001-2020, 1996.
+
+Peculiar atmospheric radar echoes from the high-latitude summer
+mesosphere have spurred much research in recent years.  The radar data
+(taken on frequency bands ranging from 2 to 1290 MHz) have been
+supplemented by measurements from an increasing arsenal of in situ
+(rocket-borne) and remote-sensing (satellites and lidars) instruments.
+Theories to explain these so-called polar mesosphere summer echoes
+(PMSE) have also proliferated.  Although each theory is distinct and
+fundamentally different, they all share the feature of being dependent
+on the existence of electrically charged aerosols.  It is, therefore,
+natural to assume that PMSE are intimately linked to the other
+fascinating phenomenon of the cold summer mesopause, noctilucent
+clouds (NLCs), which are simply ice aerosols that are large enough to
+be seen by the naked eye.  In this paper we critically examine both
+the data collected and the theories proposed, with a special focus on
+the relationship between PMSE and NLCs.  The picture that emerges is
+loosely akin to that of an iceberg, where the visible tip is the small
+number of big particles that manifest themselves as NLCs and where the
+submerged mass is the large number of smaller, subvisible particles
+that create the right condition for PMSE.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., T. M. Hall, and M. C. Kelley, On the role of charged
+aerosols in polar mesosphere summer echoes, J. Geophys. Res., 97,
+875-886, 1992.
+
+Submicron aerosols, as evidenced by the occurrence of polar
+mesospheric and noctilucent clouds, exist at heights from which polar
+mesosphere summer echoes (PMSE) are observed.  We investigate the role
+of positively and negatively charged aerosols in the scattering
+processes proposed in the literature.  These aerosols, if charged
+substantially, can account for the remarkably high radar reflectivity
+at both VHF and UHF by raising the electron Schmidt number through the
+ambipolar effect.  A positively charged component may be responsible
+for enhanced UHF radar scatter by increasing the incoherent scatter
+power through a dressed dust effect, although such a process is not
+realistic as an explanation for VHF scatter during PMSE.  Such an
+enhanced UHF scatter will be associated with extremely narrow
+backscatter spectra.  We propose a model in which both negatively and
+positively charged aerosols are present to explain both the radar
+properties and the rocket probe observations of charged particle
+depletions.  Finally, we point out that the Poker Flat 50-MHz long-term
+data, which contrary to accepted dynamical theory show average
+downward velocities in the summertime upper mesosphere, can be
+attributed to the fall speed of the aerosols responsible for PMSE.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., M. C. Kelley, and C. J. Heinselman, Enhancement of
+Thomson scatter by charged aerosols in the polar mesosphere:
+Measurements with a 1.29-GHz radar, Geophys. Res. Lett., 19,
+1097-1100, 1992.
+
+The summer polar mesosphere was observed with the Sondrestrom 1.29-GHz
+radar with a new high-resolution data acquisition mode.  On one
+occasion, a spatially narrow enhancement in the backscattered power
+was seen near an altitude of 88 km.  We discuss possible explanations
+and propose that this layer may be the first example of polar
+mesosphere summer echoes (PMSE) detected above 1 GHz.  Specifically,
+we suggest that these echoes are enhanced Thomson scatter from a layer
+of charged aerosols, and we speculate upon the size and charge state.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., W. E. Swartz, M. C. Kelley, and C. A. Miller, CUPRI
+observations of PMSE during Salvo B of NLC-91: Evidence of both
+partial reflection and turbulent scatter, Geophys. Res. Lett., 20,
+2291-2294, 1993.
+
+During the first rocket sequence (called Salvo B) of the NLC-91
+campaign, the Cornell University portable radar interferometer (CUPRI)
+observed two simultaneously occurring layers of polar mesosphere
+summer echoes (PMSE).  During the time of the Turbo B flight, the high
+time-resolution CUPRI Doppler spectra exhibited sawtooth-like
+discontinuities in the lower layer which we interpret to be a
+distorted partial reflection layer which was advected across the radar
+beam.  The upper layer, on the other hand, appeared to be caused by
+turbulent scatter and we estimate the turbulence energy dissipation
+rate in the upper layer at the time of the Turbo B flight to have been
+approximately 0.04 W/kg.  Furthermore, a shift in the antenna beam
+direction from vertical to 8 deg off zenith revealed an aspect
+sensitivity of approximately 5 dB in the lower layer but none in the
+upper layer.  We conclude that, at this particular time, turbulent
+scatter was responsible for the upper layer while some form of partial
+reflection was dominant in the lower layer.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., C. M. Alcala, M. C. Kelley, and W. E. Swartz, Further
+effects of charged aerosols on summer mesospheric radar scatter,
+J. Atmos. Terr. Phys., 58, 661-672, 1996.
+
+In an earlier paper we showed that charged aerosols play a crucial
+role in enhancing radar echoes from the summer polar mesosphere
+through reduced diffusion turbulent scatter and dressed aerosol
+scatter [Cho et al., 1992].  Here we explore the effects of charged
+aerosols on radar scatter through fossil turbulence and electron
+density depletion layers.  We find that the former can produce radar
+scatter even after the decay of neutral gas turbulence.  The latter,
+which are likely produced by the scavenging of free electrons by ice
+particles, are a candidate for causing partial reflection or Fresnel
+scatter.  Furthermore, we examine the mutual aerosol interaction
+restriction on dressed aerosol scatter more closely.  We find that a
+high ambient electron density and low aerosol number density are
+needed for effective dressed aerosol scatter to occur.  We then show
+that very small (less than 1 nm radii), negatively charged aerosols
+enhance electron diffusivity, and thus inhibit radar scatter.  Also
+ice aerosol sedimentation, in light of the reduced diffusion theory,
+leads us to conclude that the statistical peak in PMSE power should be
+located between the mean mesopause and the average NLC height, which
+agrees with observations.  Finally, we invoke time lags in the ice
+particle formation cycle to account for the observed non-correlation
+between PMSE and NLC occurrence.
+
+----------------------------------------------------------------------
+
+Cho, J. Y. N., R. F. Jurgens, and M. A. Slade, High-resolution
+stratospheric dynamics measurements with the NASA/JPL Goldstone Solar
+System Radar, Geophys. Res. Lett., 23, 1909-1912, 1996
+
+We have used, for the first time that we are aware of, the NASA/JPL
+Goldstone planetary radar to study the Earth's atmosphere.  With its
+high bandwidth and power, we were able to achieve a height resolution
+of 20 m, which is significantly better than the usual 150-m resolution
+for stratospheric radars.  Here we discuss the observation of a very
+thin scattering layer that persisted over several hours at the same
+height just above the tropopause.  We question the assumption of
+turbulent radar scatter based on the available evidence, and also
+investigate the two-minute oscillation observed in the vertical
+velocity.
+
+----------------------------------------------------------------------
+
+Hall, T. M., J. Y. N. Cho, M. C. Kelley, and W. K. Hocking, A
+re-evaluation of the Stokes drift in the polar summer mesosphere,
+J. Geophys. Res., 97, 887-897, 1992.
+
+The Stokes drift argument put forth by Coy et al. [1986] to explain
+the monthly mean downward vertical velocities observed in the summer
+polar mesosphere by radars is critically re-examined.  The size of the
+effect is quite sensitive to the choice of gravity wave wavenumber and
+phase speed.  We reproduce the Coy et al. [1986] result for a
+monochromatic gravity wave and then generalize to a Garrett-Munk type
+spectrum.  This allows us to easily incorporate experimentally
+determined wave field parameters in order to predict a Stokes drift
+magnitude.  The Stokes drift we calculate for mesospheric spectra
+reported in the literature is less than 4 cm/s.  This is nearly a
+factor of 10 smaller than the mean June and July downward vertical
+velocities we have verified from 4-year averaging of the Poker Flat,
+Alaska, radar data base.  In this extended analysis we also find that
+the upward winter mean vertical velocity is smaller than previously
+reported but still in apparent conflict with the mesospheric winter
+circulation theory.  We suggest, as an alternative to the Stokes drift
+idea, that the observed summer velocity might be the terminal velocity
+of charged aerosols.  Such an explanation would have the advantage of
+relating mean velocity observations to the large VHF radar cross
+section exhibited by the polar summer mesosphere.  This possible
+connection is discussed further in a companion paper.
+
+----------------------------------------------------------------------
+
+Hoppe, U.-P., T. A. Blix, E. V. Thrane, F.-J. Lubken, J. Y. N. Cho,
+and W. E. Swartz, Studies of polar mesosphere summer echoes by VHF
+radar and rocket probes, Adv. Space Res., 14 (9), 139-148, 1994.
+
+At radar frequencies in the range 50 MHz to 250 MHz, at times even to
+over 1 GHz, strong enhancements of scattering cross section occur
+between ~ 80 km and ~ 95 km altitude in summer at high latitudes.
+These echoes, termed "Polar Mesosphere Summer Echoes" (PMSE), have
+attracted considerable experimental effort.  Observations of this
+phenomenon are reviewed in the context of atmospheric dynamics and of
+scattering processes.  Recent rocket and radar measurements indicate
+that a partial reflection from a multitude of ion layers and
+constructive interference causes at least some of the PMSE.  It is
+discussed which further observations are necessary and some possible
+practical consequences of PMSE are pointed out.
+
+----------------------------------------------------------------------
+
+Inhester, B., J. C. Ulwick, J. Y. N. Cho, M. C. Kelley, and G.
+Schmidt, Consistency of rocket and radar electron density
+observations: Implication about the anisotropy of mesospheric
+turbulence, J. Atmos. Terr. Phys., 52, 855-873, 1990.
+
+We report about a quantitative comparison of rocket observations of
+electron density fluctuations and simultaneous 53.5-MHz radar
+measurements that were obtained during the MAC/SINE campaign in
+northern Norway in summer 1987.  Out of three rockets launched during
+the Turbulence/Gravity Wave salvo on 14 July 1987, two were flown
+during conditions that allowed a detailed investigation.  For a large
+part of the data from these rocket flights it is found that the radar
+reflectivity is about 10 dB enhanced over what would be expected from
+the rocket observations in the case of isotropic electron density
+fluctuations.  The observations can be reconciled under the assumption
+of an anisotropic turbulence.  Assuming a simple model spectrum for
+electron density fluctuations, we derive a relation between the rocket
+and radar observations that covers the whole range from isotropic
+turbulent scatter to Fresnel scatter at horizontal density
+stratifications.  For the observed data set, an anisotropy which
+typically corresponds to a ratio of horizontal to the vertical
+coherence length of about 10 is consistent with the comparison of
+rocket and radar observations.  A similar anisotropy is found also
+from the observed aspect sensitivity of the radar echoes.  The
+variation of the anisotropy with height and time shows an
+anticorreltaion with the turbulence level of the mesosphere deduced
+from the spectral width of the radar echoes.  The anisotropy is found
+to maximize in heights where the electron density displays deep
+"bite-outs."  These depletions in the electon desnity were
+independently observed by a Langmuir and an admittance probe on board
+two of the rockets.
+
+----------------------------------------------------------------------
+
+Kelley, M. C., C. M. Alcala, and J. Y. N. Cho, Detection of a meteor
+contrail and meteoric dust in the Earth's upper mesosphere,
+J. Atmos. Solar-Terr. Phys., in press, 1998.
+
+In 1983 a series of small rockets were launched from the Poker Flat
+Rocket Range near Fairbanks, Alaska to study what has come to be
+called polar mesospheric summer echoes (PMSE).  Very intense VHF radar
+returns from the region had been reported by Balsley and co-workers
+using the Poker Flat Radar.  The purpose of the experiment was to
+understand the scattering mechanisms and to this end simple nosetip
+Langmuir probes were flown on Super Arcas rockets.  We report here on
+a fortuitous simultaneous radar and rocket detection of what seems to
+be a meteor trail produced over the Poker Flat Rocket Range.  The two
+data sets are mutually consistent and taken together suggest some very
+interesting properties for the trails of large meteors.  Most notable
+is the evidence that the ablated material has coagulated into
+particles the order of 50 nm in radius.  This estimate is based
+primarily on the fall speed deduced from both the Doppler shift of the
+VHF radar signal and the time rate of change of the target as it fell
+through the beam.  In addition the very existence of the radar target,
+the extremely sharp edges of the trail, and the existence of electron
+density structures inside the trail more than an order of magnitude
+smaller than the Kolmogorov microscale, all require large charged
+aerosols and a very high Schmidt number.  Curiously the environment
+leading to PMSE is very similar to the properties of a large meteor
+trail some minutes after it is formed.  In the former case ice
+particles grow and become charged by the plasma and, when more than
+half the charge is tied up on the ice, the plasma diffusion
+coefficient becomes so small that structure can be supported at VHF
+scattering scales.  In the late-time meteor case large aerosols
+coagulate and tie up both natural charge in the plasma and the
+original meteor trail electrons.  Following the work of Rosinski and
+Snow [1961] and Hunten et al. [1980] we conclude that the incident
+meteor was the order of 50-100 g and would have had a visual magnitude
+of about -4.  Such a meteor is not uncommon but it is remarkable
+indeed to have had the opportunity to study its evolution with radar
+and particularly with rocket instrumentation.  Two experimental
+techniques are discussed which could be used to test the conclusions
+of this report and, if verified, to further study large charged
+mesospheric aerosols.
+
+----------------------------------------------------------------------
+
+Kirkwood, S., J. Y. N. Cho, C. M. Hall, U.-P. Hoppe, D. P. Murtagh,
+J. Stegman, W. E. Swartz, A. P. van Eyken, G. Wannberg, and G. Witt, A
+comparison of PMSE and other ground-based observations during the
+NLC-91 campaign, J. Atmos. Terr. Phys., 57, 35-44, 1995.
+
+During the period July/August 1991 observations were made of polar
+mesospheric summer echoes (PMSE) at 46.9 MHz and 224 MHz by the CUPRI
+and EISCAT radars, respectively, at two sites in northern Scandinavia.
+Those observations are here compared with observations of noctilucent
+clouds, energetic particle precipition and magnetic disturbances.  The
+appearance and morphology of PMSE is found to be closely correlated at
+the two frequencies and the two sites, 200 km apart.  No correlation
+is found between PMSE and noctilucent clouds or magnetic disturbance.
+No correlation is found between energetic particle precipitation and
+the appearnce of PMSE at 46.9 MHz for the whole time period.  At 224
+MHz there is no evidence for a correlation before the beginning of
+August and only one event suggesting a possible correlation after the
+beginning of August.  A minimum in occurrence frequency for PMSE is
+found between 16-21 UT (17-22 LST) which may be related to an expected
+minimum in background wind strength in the time interval.
+
+----------------------------------------------------------------------
+
+Mandal, T. K., J. Y. N. Cho, P. B. Rao, A. R. Jain, S. K. Peshin,
+S. K. Srivastava, A. K. Bohra, and A. P. Mitra,
+Stratosphere-troposphere ozone exchange observed with the Indian MST
+radar and simultaneous balloon borne ozonesonde, Radio Sci., in press,
+1998.
+
+The ST mode operation of Indian MST Radar provided evidence of
+multiple stable layer structures near the tropopause and also of its
+"weakening" during late night hours on several occasions.  Mass
+exchange can take place between troposphere and stratosphere during
+the periods of such "weakening."  To examine whether there is any
+transport of ozone from stratosphere to troposphere at the time of
+tropopause "weakening" at tropical latitudes, simultaneous
+observations were carried out using Indian MST Radar located at
+Gadanki (13.50N, 79.20E) now fully operational in MST mode and
+ozonesonde flights from Trivandrum (8.90N, 76.60E). Four campaigns of
+simultaneous observations were conducted during January 3-8, November
+9-16 and December 5-10, 1994, June 7-24, 1995.
+
+The results show occurrence of the tropopause "weakening" several
+times during January 3-8, November 9-16 and December 5-10,
+1994. Simultaneous observations of ozone profiles particularly on
+January 7/8, November 10, 16 and December 7/8, 1994, the days of
+tropopause "weakening," show the evidence of decrease in stratospheric
+ozone and corresponding increase in tropospheric ozone after this
+event, the total ozone remaining essentially constant on those days
+with respect to other days.  But tropopause "weakening" on January 4/5,
+1994 does not show any considerable change in the ozone profiles.  The
+results are presented here relating the degree of tropopause
+"weakening" to the extent of vertical mass exchange between
+troposphere and stratosphere.
+
+An effort has been made to examine the role of horizontal advection of
+ozone in increasing tropospheric ozone at the region of interest, the
+geographical distribution of tropospheric ozone residual (TOR) has
+been analyzed by the two data sets obtained independently from
+Meteor-3 Total Ozone Mapping Spectrometers (Meteor-3 TOMS) and Upper
+Air Research Satellite (UARS).  Simultaneously the possibility of
+horizontal transport of ozone from the surroundings of Tirupati and
+Trivandrum in increasing tropospheric ozone due to synoptic scale
+circulation has also been verified by close inspection of synoptic
+weather charts at 1000, 700, 500 and 300 hPa obtained from NCMRWF GCM
+model at 00 UTC and 12 UTC of January 7 and 00 UTC and 12 UTC of
+January 8, 1994.
+
+----------------------------------------------------------------------
+
+Lubken, F.-J., G. Lehmacher, T. A. Blix, U.-P. Hoppe, E. V. Thrane,
+J. Y. N. Cho, and W. E. Swartz, First in situ observations of neutral
+and plasma density fluctuations within a PMSE layer,
+Geophys. Res. Lett., 20, 2311-2314, 1993.
+
+The NLC-91 rocket and radar campaign provided the first opportunity
+for high resolution neutral and plasma turbulence measurements with
+simultaneous observations of PMSE (polar mesospheric summer echoes).
+During the flight of the TURBO payload on August 1, 1991, CUPRI and
+EISCAT observed double PMSE layers located at 86 and 88 km altitude,
+repectively.  Strong neutral density fluctuations were observed in the
+upper layer but not in the lower layer.  The fluctuation spectra of
+the ions and neutrals within the uper layer are consistent with
+standard turbulence theories.  However, we show that there is no
+neutral turbulence present in the lower layer and that something else
+must have been operating here to create the plasma fluctuations and
+hence the radar echoes.  Although the in situ measurements of the
+electron density fluctuations are much stronger in the lower layer,
+the higher absolute electron density of the upper layer more than
+compensated for weaker fluctuations yielding comparable radar echo
+powers.
+
+----------------------------------------------------------------------
+
+Miller, C. A., W. E. Swartz, and J. Y. N. Cho, CUPRI observations of
+PMSE during Salvo C of NLC-91: Evidence of a depressed mesopause
+temperature, Geophys. Res.  Lett., 20, 2295-2298, 1993.
+
+The Cornell University portable radar interferometer (CUPRI) observed
+two extremely strong layers of polar summer mesosphere echoes (PMSE)
+thirty minutes prior to the launch of Salvo C of the NLC-91 campaign.
+The lower layer exhibited a S/N ratio of 42 dB (the second strongest
+event of NLC-91), vertical velocities of a few m/s, and a narrow
+spectral width, suggesting that it was the result of partial
+reflections. The upper layer, in contrast, exhibited sinusoidal
+structures in vertical velocity with peak amplitudes greater than +-10
+m/s and wide spectral widths. These structures were observed to grow
+and steepen with altitude until they broke and produced turbulent
+radar scattering.  We conclude that the rapid rate of growth of the
+wave with altitude was the result of a depressed mesopause temperature
+and a nearly adiabatic temperature gradient at PMSE heights and that
+the simultaneous measurement of both a low mesopause temperature and
+strong PMSE supports recent theories that find the presence of charged
+aerosols to be the key to the unique radar cross sections associated
+with PMSE.
+
+----------------------------------------------------------------------
+
+Palmer, R. D., M. F. Larsen, P. B. Howell, J. Y. N. Cho,
+R. M. Narayan, and M. C. Kelley, A new spatial interferometry
+capability using the Arecibo 430 MHz radar, Radio Sci., 32, 749-755,
+1997.
+
+This note describes the new spatial interferometry (SI) capability of
+the 430 MHz radar system of the Arecibo Observatory (AO).  Three
+limitations exist when the 430 MHz radar is used for observations in
+the tropo- and stratospheric region.  First, the AO radar currently
+has a lower height limitation of approximately 6 km, due to the
+existing transmit/receive switch.  Second, fading ground clutter
+limits the useful data which can be obtained and complicates the
+analysis.  Third, the large mass of the feed system, which slows down
+beam steering, reduces the temporal resolution of any measurements
+requiring multiple beam positions.  For these reasons, an SI system
+has been developed which will be shown to reduce these limitations.  A
+brief description of the hardware is provided and preliminary data are
+presented.
+
+----------------------------------------------------------------------
+
+Swartz, W. E., J. Y. N. Cho, and C. A. Miller, CUPRI system
+configuration for NLC-91 and observations of PMSE during Salvo A,
+Geophys. Res. Lett., 20, 2287-2290, 1993.
+
+The Cornell University portable radar interferometer (CUPRI) provided
+nearly continuous monitoring of the mesosphere above Esrange, Sweden
+during the noctilucent cloud rocket and radar campaign of the summer
+of 1991 (NLC-91).  CUPRI probed the mesosphere above Esrange from 78
+to 91 km altitude with 300-meter resolution and was sensitive to the
+enhanced polar mesospheric summer echoes (PMSE) that occur in the same
+altitude range as NLC formations.  Out of the total of 264 hours of
+CUPRI observation time, PMSE were present for 140 hours.  Rocket Salvo
+A was flown on the night of August 9-10 into an NLC event that
+occurred simultaneously with a thin and weakening PMSE layer.
+High-resolution Doppler spectrograms of this PMSE event revealed
+sawtooth-like discontinuities at ~ 83 km altitude, which we interpret
+to be a distorted partial reflection layer which was advected across
+the radar beam.
+
+----------------------------------------------------------------------
+
+Walchli, U., J. Stegman, G. Witt, J. Y. N. Cho, C. A. Miller,
+M. C. Kelley, and W. E. Swartz, First height comparison of noctilucent
+clouds and simultaneous PMSE, Geophys. Res. Lett., 20, 2845-2848,
+1993.
+
+On the night of August 9-10, 1991, three rocket payloads were launched
+into simultaneously occurring noctilucent clouds (NLC) and polar
+mesospheric summer echoes (PMSE) above Esrange, Sweden as part of the
+NLC-91 campaign.  This success should lay to rest any lingering doubts
+that the two phenomena are related to each other.  Give this result, a
+second aim of this experiment was to compare the vertical structures
+and locations of the NLC and PMSE events. To this end, in situ optical
+photometers and particle impact sensors were used to measure the
+altitude and vertical structure of the NLC layer, while the Cornell
+University portable radar interferometer (CUPRI) was used to probe
+PMSE.  Although this comparison is complicated by the horizontal
+separations between the in situ measurements and the radar volume, and
+low electron densities which reduced the overall radar reflectitivity,
+we conclude that the PMSE layer in the CUPRI radar volume remained
+above the NLC layer detected by the in situ instruments by 300 to 1000
+m throughout the experiment.  We interpret this result as supporting
+the view that PMSE are more likely to result from the presence of
+aerosols smaller than the ones optically detectable as NLCs.
+
+----------------------------------------------------------------------
+
+Zadorozhny, A. M., A. A. Tyutin, G. Witt, N. Wilhelm, U. Walchli,
+J. Y. N. Cho, and W. E. Swartz, Electric field measurements in the
+vicinity of noctilucent clouds and PMSE, Geophys. Res. Lett., 20,
+2299-2302, 1993.
+
+We report mesospheric electric field structure in the vicinity of
+noctilucent clouds (NLC) and polar mesospheric summer echoes (PMSEs)
+measured on the DECIMALS-B rocket payload launched during the
+international rocket-radar campaign NLC-91 from Esrange, Sweden on
+August 10, 1991.  Unusually large vertical E-fields, Ez, about 100-300
+mV/m on ascent and greater than 1 V/m on descent were detected at
+82.5-84.5 km.  The region of the large Ez was clearly limited by the
+NLC layer on the bottom and by the distinctly separated PMSE layer on
+the top.  A narrow negative peak in the Ez height profile observed on
+ascent in the lower part of the NLC layer was apparently caused by the
+interaction of the field mill with impacting NLC particles possibly
+carrying negative charge.  If the impact signature is due to single
+particles, their size is estimated to be at least 0.5 um and their
+concentration about 10E-4/cc locally.  Based on the light-scattering
+properties of NLC such massive particles can only be a minor part of
+the NLC population.

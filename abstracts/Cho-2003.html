@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>Evaluation of TDWR range-velocity ambiguity mitigation
+techniques</title>
+</head>
+
+<body bgcolor="#ffffff">
+<h1>Evaluation of TDWR range-velocity ambiguity mitigation
+techniques</h1>
+
+Range and velocity ambiguities pose significant data quality
+challenges for the Terminal Doppler Weather Radar (TDWR).  For typical
+pulse repetition frequenceis (PRFs) of 1-2 kHz, the radar is subject
+to both range-ambiguous precipitation returns and velocity aliasing.
+Experience shows that these are a major contributor to failures of the
+system's wind shear detection algorithms.  Here we evaluate the degree
+of mitigation offered by existing phase diversity methods to these
+problems.  Using optimized processing techniques, we analyze the
+performance of two particular phase codes that are best suited for
+application to TDWRs--random and SZ(8/64) [<em>Sachidananda and
+Zrnic</em>, 1999]--in the protection of weak-trip power, velocity, and
+spectral width estimates.  Results from both simulated and real
+weather data indicate that the SZ(8/64) code generally outperforms the
+random code, except for protection of 1st trip from 5th trip
+interference.  However, the SZ code estimates require a priori
+knowledge of out-of-trip spectral widths for censoring.  This
+information cannot be provided adequately by a separate scan with a
+pulse repetition frequency (PRF) low enough to unambiguously cover the
+entire range of detectable weather, because then the upper limit of
+measurable spectral width is only about 2 m/s.  For this reason we
+conclude that SZ phase codes are not appropriate for TDWR use.<p>
+
+For velocity ambiguity resolution, the random phase code could be
+transmitted at two PRFs on alternating dwells.  Assuming the velocity
+changes little between two consecutive dwells, a Chinese remainder
+type of approach can be used to dealias the velocities.  Strong ground
+clutter at close range, however, disables this scheme for gates at the
+beginning of the 2nd trip of the higher PRF.<p>
+
+We offer an alternative scheme for range-velocity ambiguity
+mitigation: multistaggered pulse processing (MSPP).  Yielding
+excellent velocity dealiasing capabilities, the MSPP method should
+also provide protection from patchy, small-scale out-of-trip weather.<p>
+
+To obtain maximum performance in both range and velocity dealiasing,
+we suggest that information from the initial low-PRF scan be used to
+decide the best waveform to transmit in the following scan-random
+phase code with alternating-dwell PRFs or MSPP.  Such an adaptive
+approach presages future developments in weather radar, for example
+electronically scanned arrays allow selective probing of relevant
+weather events.<p>
+
+
+<hr>
+
+This document is available to the public through <a
+href="http://www.ntis.gov">NTIS</a>.<p>
+
+<a href="../publications.html">Return to publications list.</a><p>
+
+</body> </html>

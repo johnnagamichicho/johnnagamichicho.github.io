@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>NextGen Surveillance and Weather Radar Capability (NSWRC) Siting Analysis</title>
+</head>
+
+<body bgcolor="#ffffff">
+<h1>NextGen Surveillance and Weather Radar Capability (NSWRC) Siting Analysis</h1>
+
+As the current radars that perform weather and aircraft surveillance
+over the United States age, they must be sustained
+through service life extension programs or replaced. In the latter
+case, the radars can be replaced by multiple types of radars
+with different missions or they can be replaced by scalable
+multifunction phased array radars (MPARs). State-of-the-art active
+phased array systems have the potential to provide improved
+capabilities such as earlier detection and better characterization
+of hazardous weather phenomena, 3D tracking of noncooperative
+aircraft, better avoidance of unwanted clutter sources such
+as wind farms, and more graceful performance degradation with
+component failure. As the U.S. aviation community works
+toward realizing the Next Generation Air Transportation System
+(NextGen), achieving improved capabilities for aircraft and
+weather surveillance becomes critical, because stricter observation
+requirements are believed to be needed. Hence, the Federal
+Aviation Administration (FAA) is considering the MPAR as a possible
+solution to their NextGen Surveillance and Weather Radar
+Capability (NSWRC).<p>
+
+Cost is one hurdle to the deployment of a modern phased array radar
+network. One way of lowering the overall cost is to
+reduce the total number of radars. Because of the overlap in coverage
+provided by the current radar networks, a unified
+MPAR replacement network can potentially decrease the total number of
+radars needed to cover the same airspace. An earlier
+analysis conducted by MIT Lincoln Laboratory concluded that 510
+legacy radars could be effectively replaced by 334 MPARs
+over the contiguous United States (CONUS). There was, however, some
+uncertainty whether the spatial resolution used in the
+terrain blockage calculations was fine enough to accurately depict
+radar coverage, and also if terminal area coverage was being
+adequately addressed. This study revisits the siting analysis using a
+much finer spatial resolution, expands the coverage domain
+to include all fifty states and U.S. territories, adds the Air Force
+long-range surveillance radars (FPSs) to the legacy pool, and
+allows scaling by number of faces per radar. The aim is to provide an
+estimate of the minimum number of MPARs needed to
+replace the existing radar coverage. We also provide an extensive
+statistical compilation of legacy versus MPAR coverage for
+various observational performance parameters.<p>
+
+<hr>
+To obtain a copy of this report, send a request to the FAA NSWRC
+program manager, <a hrefVaughn Yates.<p>
+
+<a href="../publications.html">Return to publications list.</a><p>
+
+</body> </html>
